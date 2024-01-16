@@ -1,5 +1,4 @@
 ![logo](https://github.com/21-07/21-07/blob/main/banner.png)
-![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)
 <h1 align="center">Hi 👋, I'm Shubhangi Yashwant Ingale</h1>
 <h3 align="center">A passionate Frontend and Backend Developer from India</h3>
 
