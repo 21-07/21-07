@@ -1,6 +1,7 @@
 ![logo](https://github.com/21-07/21-07/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shubhangi Yashwant Ingale</h1>
 <h3 align="center">A passionate Frontend and Backend Developer from India</h3>
+![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif)
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" autoplay>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21-07&label=Profile%20views&color=0e75b6&style=flat" alt="21-07" /> </p>
